@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Lesson 0");
         System.out.println("New line");
         System.out.println("Lesson 0");
+        System.out.println("New line");
+        System.out.println("Lesson 0");
     }
 }
